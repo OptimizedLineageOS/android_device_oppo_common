@@ -78,7 +78,7 @@ public class Constants {
         sNodeDefaultMap.put(TOUCHPAD_STATE_KEY, TOUCH_PAD_DEFAULT);
         sNodeDefaultMap.put(TOUCHPAD_DOUBLETAP_KEY, false);
         sNodeDefaultMap.put(TOUCHPAD_LONGPRESS_KEY, false);
-        sNodeDefaultMap.put(BUTTON_SWAP_KEY, false);
+        sNodeDefaultMap.put(BUTTON_SWAP_KEY, true);
         sNodeDefaultMap.put(NOTIF_SLIDER_TOP_KEY, "601");
         sNodeDefaultMap.put(NOTIF_SLIDER_MIDDLE_KEY, "602");
         sNodeDefaultMap.put(NOTIF_SLIDER_BOTTOM_KEY, "603");
